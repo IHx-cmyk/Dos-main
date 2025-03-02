@@ -1,0 +1,20 @@
+{
+  "name": "Dos majn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DDoS.js",
+  "scripts": {
+    "start": " node DDoS.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "https-proxy-agent": "^7.0.5",
+    "socks-proxy-agent": "^8.0.4"
+  }
+}
